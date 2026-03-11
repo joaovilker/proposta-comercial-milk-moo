@@ -1,16 +1,40 @@
-# React + Vite
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="left"> 
+  Olá, me chamo João Vilker e atualmente estou estudando <strong>
+  HTML5 e CSS3</strong>.<br>
+</p>
 
-Currently, two official plugins are available:
+<p align="left">
+  🦄 Linguagens: TypeScript, JavaScript, HTML, Python, CSS, PLpgSQL.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="left">
+  💼 Ferramentas: VScode, Git, Github e Pycharm
+</p>
 
-## React Compiler
+<p align="left">
+  💌 Você pode me encontrar aqui ⤵️
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<p align="left">
 
-## Expanding the ESLint configuration
+  <a href="https://www.linkedin.com/in/joaovilker/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/--_Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  <a href="https://api.whatsapp.com/send?phone=5511918520653&text=Ol%C3%A1,%20vi%20seu%20perfil%20no%20GitHub!%0AVim%20para%20te%20dar%20um%20oi!" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/--_WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
+  <br>
+  <a href="https://github.com/joaovilker" alt="Github">
+  <img src="https://img.shields.io/badge/--_GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+  <a href="https://www.instagram.com/joao.vilker/" alt="Instagram">
+  <img src="https://img.shields.io/badge/--_Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+  <br>
+  <a href="mailto:joao.vilker@hotmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/--_Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  
+  <a href="https://www.facebook.com/joaovilkeer/" alt="Facebook">
+  <img src="https://img.shields.io/badge/--_Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
+  
+</p>
